@@ -7,7 +7,7 @@ import (
 	"fmt"
 	
 	context "golang.org/x/net/context"
-	"gongyueshu/pb"
+	"divisor_grpc/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 	"google.golang.org/grpc"
-	"gongyueshu/pb"
+	"divisor_grpc/pb"
 	"log"
 )
 
